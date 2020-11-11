@@ -1,0 +1,42 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "name": "API Monetization",
+      "price": 100,
+      "imgName": "Album 1.png"
+    },
+    {
+      "id": 2,
+      "name": "EA Consulting",
+      "price": 10000,
+      "imgName": "Album 2.png"
+    },
+    {
+      "id": 3,
+      "name": "Startup Accelerator",
+      "price": 50000,
+      "imgName": "Album 3.png"
+    },
+    {
+      "id": 4,
+      "name": "API Monetization Invest",
+      "price": 100000,
+      "imgName": "Album 4.png"
+    }
+  ],
+  "merch": [
+    {
+      "id": 5,
+      "name": "T-Shirt",
+      "price": 1999,
+      "imgName": "Shirt.png"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Cup",
+      "price": 699,
+      "imgName": "Cofee.png"
+    }
+  ]
+}

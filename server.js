@@ -49,7 +49,7 @@ app.post("/purchase", (req, res) => {
         .create({
           amount: total,
           source: req.body.stripeTokenId,
-          currency: "eur",
+          currency: "usd",
           description: "Payment for " + description,
         })
         .then((item) => {
